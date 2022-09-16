@@ -1,0 +1,12 @@
+1, A Brief History of Time, Stephen Hawking, Non-fiction, Science, 1998-09-01
+2, Cosmos, Neil Tyson, Non-fiction, Science, 2013-12-10
+3, The Elgant Universe, Michael Duff, Non-fiction, Science, 2008-12-23
+4, Devil in the white city, Erik Larson, Non-fiction, History, 1997-05-19
+5, 1776, David MacCullough, Non-fiction, History, 2005-05-24
+6, Steve Jobs, Walter iSaacson, Non-fiction, Biography, 2011-10-24
+7, Will, Will Smith, Non-fiction, Biography, 2021-11-09
+8, A Promised Land, Barack Obama, Non-fiction, Biography, 2020-11-17
+9, The Name of the Wind, Patrick Rothfuss, Fiction, Fantasy, 2007-03-27
+10, The Fifth Season, N K Jemisin, Fiction, Fantasy, 2015-07-04
+11, Marvel Action Spiderman, Delilah, Fiction, Comic, 2019-06-18
+12, Nubia Real One, LL McKinney, Fiction, Comic, 2021-02-23
